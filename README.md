@@ -4,17 +4,6 @@
 
 This project uses logistic regression to classify loans as either "Healthy Loan" (label 0) or "High-Risk Loan" (label 1). The model is trained on a dataset containing loan information, and its performance is evaluated using various metrics.
 
-## Table of Contents
-
--   [Introduction](#introduction)
--   [Dataset](#dataset)
--   [Installation](#installation)
--   [Usage](#usage)
--   [Results](#results)
--   [Skills Used](#skills-used)
--   [Contributing](#contributing)
--   [License](#license)
-
 ## Introduction
 
 The primary goal of this project is to develop a reliable model to predict the risk associated with loans. By accurately identifying high-risk loans, financial institutions can minimize losses and make informed lending decisions.
